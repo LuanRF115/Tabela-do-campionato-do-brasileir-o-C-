@@ -1,0 +1,7 @@
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\bin\Debug\campeonato Brasileiro.exe.config
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\bin\Debug\campeonato Brasileiro.exe
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\bin\Debug\campeonato Brasileiro.pdb
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\obj\Debug\campeonato Brasileiro.csproj.AssemblyReference.cache
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\obj\Debug\campeonato Brasileiro.csproj.CoreCompileInputs.cache
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\obj\Debug\campeonato Brasileiro.exe
+C:\Users\luan.rfelipe\source\repos\campeonato Brasileiro\campeonato Brasileiro\obj\Debug\campeonato Brasileiro.pdb
